@@ -7,10 +7,7 @@ Minha jornada acadêmica tem sido centrada na criação de soluções práticas,
 
 Além disso, tive o privilégio de contribuir significativamente para o site "Bag-a-Bag", outro projeto notável desenvolvido por meus colegas. No contexto desse site de reservas de passagens aéreas, minha contribuição incluiu a criação de uma nova funcionalidade que permitia aos passageiros transportar animais durante suas viagens.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielAlbuquerque&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-GabrielAlbuquerque.vercel.app/api/top-langs/?username=GabrielAlbuquerqueo&show_icons=true&theme=radical&layout=compact" />
- </div>
+
  
  &nbsp;
  &nbsp;
