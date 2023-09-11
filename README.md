@@ -1,6 +1,5 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/GabrielAlbuquerque/GabrielAlbuquerque/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 <p align-itens="center">Meu nome é Gabriel Sales de Albuquerque, tenho 18 anos e sou estudante do curso de Desenvolvimento de Sistemas no SENAI "Suíço-Brasileira Paulo Ernesto Tolle". No decorrer do 3º semestre, tenho focado na expansão das minhas habilidades práticas em  PHP, JavaScript, React e Mysql.
 
