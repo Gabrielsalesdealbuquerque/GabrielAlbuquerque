@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/GabrielAlbuquerque/GabrielAlbuquerque/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Meu nome é Gabriel Sales de Albuquerque, tenho 18 anos e sou estudante do curso de Desenvolvimento de Sistemas no SENAI "Suíço-Brasileira Paulo Ernesto Tolle". No decorrer do 3º semestre, tenho focado na expansão das minhas habilidades práticas em  PHP, JavaScript, React e MySQL.
+<p align-itens="center">Meu nome é Gabriel Sales de Albuquerque, tenho 18 anos e sou estudante do curso de Desenvolvimento de Sistemas no SENAI "Suíço-Brasileira Paulo Ernesto Tolle". No decorrer do 3º semestre, tenho focado na expansão das minhas habilidades práticas em  PHP, JavaScript, React e Mysql.
 
 Minha jornada acadêmica tem sido centrada na criação de soluções práticas, incluindo desenvolvimento de aplicativos mobile, construção de sites e resolução de desafios pertinentes. Recentemente, participei de um projeto notável chamado MyHappyPet. Nesse empreendimento, em conjunto com minha equipe, desenvolvemos um pet shop virtual. Através desse projeto, conseguimos proporcionar aos clientes a capacidade de agendar serviços de banho e tosa para seus animais de estimação, enriquecendo minha experiência em implementações práticas.
 
